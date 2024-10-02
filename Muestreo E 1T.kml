@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document id="1zlUVARSG6fn4rGOLo8y-9vxHMJsluhDJ">
+	<name>Muestreo E 1T</name>
+	<gx:CascadingStyle kml:id="__managed_style_12F4ABCF533384312262">
+		<Style>
+			<IconStyle>
+				<scale>1.2</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/document/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+				<scale>0</scale>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>6</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_04F2088B773384312262">
+		<Style>
+			<IconStyle>
+				<Icon>
+					<href>https://earth.google.com/earth/document/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+				<scale>0</scale>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>4</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<StyleMap id="__managed_style_0C3803B1C13384312261">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#__managed_style_04F2088B773384312262</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#__managed_style_12F4ABCF533384312262</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Placemark id="06E4CBD97031CD3D1CEF">
+		<name>7°47&apos;58.9&quot;N 80°12&apos;03.6&quot;W</name>
+		<styleUrl>#__managed_style_0C3803B1C13384312261</styleUrl>
+		<Point>
+			<extrude>1</extrude>
+			<coordinates>-80.20099999999999,7.7996944,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="04379F949C31CD3EBC6E">
+		<name>7°47&apos;59.4&quot;N 80°12&apos;04.2&quot;W</name>
+		<styleUrl>#__managed_style_0C3803B1C13384312261</styleUrl>
+		<Point>
+			<extrude>1</extrude>
+			<coordinates>-80.2011667,7.799833299999999,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0B616D241431CD3F9CD0">
+		<name>7°47&apos;59.8&quot;N 80°12&apos;04.7&quot;W</name>
+		<styleUrl>#__managed_style_0C3803B1C13384312261</styleUrl>
+		<Point>
+			<extrude>1</extrude>
+			<coordinates>-80.2013056,7.799944399999998,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0DA90F3F0231CD60CF5D">
+		<name>7°48&apos;00.3&quot;N 80°12&apos;05.1&quot;W</name>
+		<styleUrl>#__managed_style_0C3803B1C13384312261</styleUrl>
+		<Point>
+			<extrude>1</extrude>
+			<coordinates>-80.2014167,7.800083299999999,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="07C023F66231CD61132E">
+		<name>7°48&apos;00.8&quot;N 80°12&apos;05.6&quot;W</name>
+		<styleUrl>#__managed_style_0C3803B1C13384312261</styleUrl>
+		<Point>
+			<extrude>1</extrude>
+			<coordinates>-80.20155559999999,7.8002222,0</coordinates>
+		</Point>
+	</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document id="1eLXDYVslw_0jLUWIB6RmXfwE9EEH-MoG">
+	<name>Muestreo M 2L</name>
+	<description>Playa Monagre</description>
+	<gx:CascadingStyle kml:id="__managed_style_2CCEC82F3C3384311343">
+		<Style>
+			<IconStyle>
+				<scale>1.2</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/document/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>6</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_1826E1D7C73384311343">
+		<Style>
+			<IconStyle>
+				<Icon>
+					<href>https://earth.google.com/earth/document/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>4</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<StyleMap id="__managed_style_06778F8E1D3384311343">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#__managed_style_1826E1D7C73384311343</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#__managed_style_2CCEC82F3C3384311343</styleUrl>
+		</Pair>
+	</StyleMap>
+	<gx:CascadingStyle kml:id="__managed_style_0D7C5F57653384311342">
+		<Style>
+			<IconStyle>
+				<scale>1.2</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/document/icon?color=5d4037&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+				<scale>0</scale>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>6</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_1F821D619E3384311341">
+		<Style>
+			<IconStyle>
+				<Icon>
+					<href>https://earth.google.com/earth/document/icon?color=5d4037&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+				<scale>0</scale>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>4</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<StyleMap id="__managed_style_0B584603D93384311341">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#__managed_style_1F821D619E3384311341</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#__managed_style_0D7C5F57653384311342</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Placemark id="013B05490831D03E3C2F">
+		<name>7°58&apos;39.2&quot;N 80°20&apos;47.6&quot;W</name>
+		<styleUrl>#__managed_style_0B584603D93384311341</styleUrl>
+		<Point>
+			<extrude>1</extrude>
+			<coordinates>-80.3465556,7.9775556,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="035596AC5631D03F0F20">
+		<name>7°58&apos;39.7&quot;N 80°20&apos;48.1&quot;W</name>
+		<styleUrl>#__managed_style_0B584603D93384311341</styleUrl>
+		<Point>
+			<extrude>1</extrude>
+			<coordinates>-80.34669439999999,7.977694400000001,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="016253A88331D03FA455">
+		<name>7°58&apos;40.1&quot;N 80°20&apos;48.6&quot;W</name>
+		<styleUrl>#__managed_style_0B584603D93384311341</styleUrl>
+		<Point>
+			<extrude>1</extrude>
+			<coordinates>-80.3468333,7.9778056,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="004ED7AE4131D0403A19">
+		<name>7°58&apos;40.5&quot;N 80°20&apos;49.1&quot;W</name>
+		<styleUrl>#__managed_style_0B584603D93384311341</styleUrl>
+		<Point>
+			<extrude>1</extrude>
+			<coordinates>-80.3469722,7.9779167,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0E92B617DB31D040FCA8">
+		<name>7°58&apos;41.2&quot;N 80°20&apos;49.7&quot;W</name>
+		<styleUrl>#__managed_style_0B584603D93384311341</styleUrl>
+		<Point>
+			<extrude>1</extrude>
+			<coordinates>-80.34713889999999,7.9781111,0</coordinates>
+		</Point>
+	</Placemark>
+	<GroundOverlay id="0A7514209831D04B2604">
+		<name>Untitled overlay</name>
+		<styleUrl>#__managed_style_06778F8E1D3384311343</styleUrl>
+		<Icon>
+			<href>data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==</href>
+		</Icon>
+		<LatLonBox>
+			<north>85</north>
+			<south>-85</south>
+			<east>180</east>
+			<west>-180</west>
+		</LatLonBox>
+		<gx:MapTilePyramid>
+			<Link>
+			</Link>
+			<gx:minLevel>0</gx:minLevel>
+			<gx:maxLevel>22</gx:maxLevel>
+		</gx:MapTilePyramid>
+	</GroundOverlay>
+</Document>
+</kml>

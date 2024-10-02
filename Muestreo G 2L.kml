@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document id="1s4GR1M18Ht8M9plINyOvm6lgQB-Xap0y">
+	<name>Muestreo G 2L</name>
+	<description>Playa Puerto de Guararé</description>
+	<gx:CascadingStyle kml:id="__managed_style_0BCFC895B0338431338E">
+		<Style>
+			<IconStyle>
+				<scale>1.2</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/document/icon?color=ffee58&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+				<scale>0</scale>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>6</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_17D793811C338431338D">
+		<Style>
+			<IconStyle>
+				<Icon>
+					<href>https://earth.google.com/earth/document/icon?color=ffee58&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+				<scale>0</scale>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>4</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<StyleMap id="__managed_style_01F835ADD9338431338D">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#__managed_style_17D793811C338431338D</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#__managed_style_0BCFC895B0338431338E</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Placemark id="0F8BC1B72D31D037CD50">
+		<name>7°51&apos;58.2&quot;N 80°16&apos;57.6&quot;W</name>
+		<styleUrl>#__managed_style_01F835ADD9338431338D</styleUrl>
+		<Point>
+			<extrude>1</extrude>
+			<coordinates>-80.28266669999999,7.866166699999999,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0AFFD52C8831D0480CF2">
+		<name>7°51&apos;57.9&quot;N 80°16&apos;56.9&quot;W</name>
+		<styleUrl>#__managed_style_01F835ADD9338431338D</styleUrl>
+		<Point>
+			<extrude>1</extrude>
+			<coordinates>-80.2824722,7.8660833,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="07C5E77A9131D048614E">
+		<name>7°51&apos;57.6&quot;N 80°16&apos;56.3&quot;W</name>
+		<styleUrl>#__managed_style_01F835ADD9338431338D</styleUrl>
+		<Point>
+			<extrude>1</extrude>
+			<coordinates>-80.2823056,7.866,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0D5F12CDF331D048D17D">
+		<name>7°51&apos;57.2&quot;N 80°16&apos;55.7&quot;W</name>
+		<styleUrl>#__managed_style_01F835ADD9338431338D</styleUrl>
+		<Point>
+			<extrude>1</extrude>
+			<coordinates>-80.28213889999999,7.8658889,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="056FD36F6831D049256F">
+		<name>7°51&apos;56.9&quot;N 80°16&apos;55.1&quot;W</name>
+		<styleUrl>#__managed_style_01F835ADD9338431338D</styleUrl>
+		<Point>
+			<extrude>1</extrude>
+			<coordinates>-80.2819722,7.865805600000001,0</coordinates>
+		</Point>
+	</Placemark>
+</Document>
+</kml>
